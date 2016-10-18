@@ -1,5 +1,6 @@
 # demo-test-cafe
 
+Demo for [TestCafeTestCafe](http://devexpress.github.io/testcafe/ "Automated browser testing for the modern web development stack | TestCafe").
 
 
 ## Install
@@ -9,16 +10,6 @@ Install with [npm](https://www.npmjs.com/):
     npm install demo-test-cafe
 
 ## Usage
-
-- [ ] Write usage instructions
-
-## Changelog
-
-See [Releases page](https://github.com/azu/demo-test-cafe/releases).
-
-## Running tests
-
-Install devDependencies and Run `npm test`:
 
     npm i -d && npm test
 
