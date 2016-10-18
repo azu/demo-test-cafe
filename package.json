@@ -1,0 +1,30 @@
+{
+  "directories": {
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "name": "demo-test-cafe",
+  "version": "1.0.0",
+  "main": "lib/demo-test-cafe.js",
+  "scripts": {
+    "test": "testcafe chrome test/"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/demo-test-cafe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/demo-test-cafe/issues"
+  },
+  "homepage": "https://github.com/azu/demo-test-cafe",
+  "dependencies": {
+    "testcafe": "^0.9.0"
+  }
+}
