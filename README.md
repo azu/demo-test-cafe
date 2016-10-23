@@ -2,16 +2,12 @@
 
 Demo for [TestCafeTestCafe](http://devexpress.github.io/testcafe/ "Automated browser testing for the modern web development stack | TestCafe").
 
-
-## Install
-
-Install with [npm](https://www.npmjs.com/):
-
-    npm install demo-test-cafe
-
 ## Usage
 
-    npm i -d && npm test
+    git clone https://github.com/azu/demo-test-cafe.git
+    cd demo-test-cafe
+    npm install
+    npm test
 
 ## Contributing
 
