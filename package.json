@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/azu/demo-test-cafe",
   "dependencies": {
-    "testcafe": "^0.9.0"
+    "testcafe": "^0.21.1"
   }
 }
